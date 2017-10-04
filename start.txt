@@ -2,4 +2,4 @@ aaa
 bbb
 5th commit 
 conflict
-4rth commit
+delete
